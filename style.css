@@ -1,7 +1,7 @@
 body  {
     background-image: url(https://www.bing.com/images/blob?bcid=ThEBEyhOTnQBvg);
     background-position: center;
-    background-size: auto;
+    background-size: cover;
     background-color: black;
     font-style: italic;
     font-size: 20px;
