@@ -1,10 +1,11 @@
 body  {
-    background-image: url(https://www.bing.com/images/blob?bcid=ThEBEyhOTnQBvg);
+    background-image: url(https://media0.giphy.com/media/WWYSFIZo4fsLC/200.gif);
+    background-repeat: initial;
     background-position: center;
     background-size: cover;
     background-color: black;
     font-style: italic;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .mydiv{
